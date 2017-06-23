@@ -1,11 +1,11 @@
-Package: AWR.Athena
+Package: AWR.Redshift
 Type: Package
-Title: 'AWS' Athena DBI Wrapper 
-Version: 1.1.0
+Title: 'AWS' Redshift DBI Wrapper 
+Version: 1.2.1.1001
 Author: Neal Fultz <nfultz@gmail.com>, Gergely Daróczi <gergely@system1.com>
 Maintainer: Neal Fultz <nfultz@gmail.com>
-Description: 'RJDBC' based DBI driver to Amazon Athena, which is an interactive
-    query service to analyze data in Amazon S3 using standard SQL.
+Description: 'RJDBC' based DBI driver to Amazon Redshift, which is a hosted data
+    warehouse.
 License: AGPL-3
 Encoding: UTF-8
 LazyData: true
